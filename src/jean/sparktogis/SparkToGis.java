@@ -7,6 +7,7 @@ import org.apache.spark.sql.Row;
 import org.apache.spark.sql.SparkSession;
 
 
+
 /**
  * Classe que obtem os dados de arquivo CSV e inseri na base de dados.
  * @author jean
